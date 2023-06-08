@@ -57,6 +57,7 @@
   - statSync
   - stat using async await
 - fs module and fs/promises module
+  - callback and promises 
   - reading file
     - readFile
     - readFileSync
