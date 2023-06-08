@@ -66,7 +66,12 @@
     - writeFile
     - writeFileSync
     - writeFile using async await
-
+  - understanding flags
+    - r+
+    - w+
+    - a
+    - a+
+    - 
   - working with folders
     - exitsSync
     - mkdir
